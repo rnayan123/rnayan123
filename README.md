@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🎗️ Hi i am Nayan raj.<br><br>🎭 I am a enthusiast learner of data analytics,database engineering,linux,business analyst.<br><br>🔔I am keen to work as data analyst, cyber security expert and cloud manager. 
+ 🎗️ Hi i am Nayan raj.<br><br>🎭 I am a enthusiast learner of data analytics,database engineering,linux,business analyst.<br><br>🔔I am keen to work as data analyst, database manager,database engineer. 
 
 
 ## 🌐 Socials:
